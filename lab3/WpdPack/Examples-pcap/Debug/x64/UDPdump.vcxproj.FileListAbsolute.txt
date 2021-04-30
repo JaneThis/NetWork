@@ -1,2 +1,0 @@
-C:\Users\jane\Desktop\WpdPack\Examples-pcap\Debug\x64\UDPdump.exe
-C:\Users\jane\Desktop\WpdPack\Examples-pcap\Debug\x64\UDPdump.pdb

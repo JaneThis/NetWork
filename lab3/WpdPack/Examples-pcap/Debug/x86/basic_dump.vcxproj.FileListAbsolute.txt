@@ -1,2 +1,0 @@
-C:\Users\jane\Desktop\WpdPack\Examples-pcap\Debug\x86\basic_dump.exe
-C:\Users\jane\Desktop\WpdPack\Examples-pcap\Debug\x86\basic_dump.pdb
